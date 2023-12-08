@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jiwxoz&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/apitype=cylinder&color=000000&height=150&section=header&text=jiwxoz&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/indesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
