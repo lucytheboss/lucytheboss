@@ -1,7 +1,4 @@
 ### Hi there 👋
-#### 📫 How to reach me
-##### INSTAGRAM : @jiwxoz
-##### EMAIL : lucyr9232@gmail.com
 
 <!--
 **lucytheboss/lucytheboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
