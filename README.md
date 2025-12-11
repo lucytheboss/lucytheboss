@@ -14,7 +14,7 @@
 # Hi, I'm Lucy 👋  
 **Behavioral UX Researcher | Psychology + Data Science + Creative Tech**
 
-I'm an undergraduate student majoring in **Psychology & English Literature**,  
+I'm an undergraduate student majoring in **Psychology & English Literature & Technoglogy-Art**,  
 with strong interests in **UX research, human behavior, product analytics, and data-driven design**.
 
 I work at the intersection of:
