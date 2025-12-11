@@ -4,13 +4,6 @@
 **lucytheboss/lucytheboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jiwoxz&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-
-
-<div align = center>
-<img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/indesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"/>  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</div>
-
 # Hi, I'm Lucy 👋  
 **Behavioral UX Researcher | Psychology + Data Science + Creative Tech**
 
@@ -61,4 +54,14 @@ Exploring audio patterns, genre trends, release-year distributions, and user beh
 **Email:lucyroh529@gmail.com**  
 **Portfolio:** (coming soon)  
 **U.S. Permanent Resident**
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jiwoxz&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+
+<div align = center>
+<img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/indesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"/>  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</div>
+
 
