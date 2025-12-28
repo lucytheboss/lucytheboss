@@ -35,7 +35,7 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
 - Python data viz practice (Matplotlib)
 
 
-### 🎵 Project 1. Spotify Data Analysis: "The Pure Audio Model"
+### 🎵 [Project 1. Spotify Data Analysis: "The Pure Audio Model" ](https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project)
 **Objective:** To verify if Spotify's recommendation algorithm is biased towards "Artist Fame" rather than "Audio Quality."
 
 * **Data:** 6,000+ songs fetched via Spotify Web API.
@@ -51,16 +51,17 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
 
 ---
 
-### 🎪 Project 2. LUCAUS Festival Log Analysis & UX Optimization
+### 🎪 [Project 2. LUCAUS Festival Log Analysis & UX Optimization](https://github.com/lucytheboss/LUCAUS2025)
 **Objective:** Analyzing web server logs to identify user drop-off points during the university festival.
 
 * **Data:** Server access logs (Nginx/Apache format) during the festival period.
 * **Tech Stack:** Python, Matplotlib, Seaborn, Log Parsing.
 * **Discovery (Data):**
     * **Traffic Surge:** Confirmed 300% traffic spike during booth operating hours.
-    *  <img src="LUCAUS2025/images/page_viseted.png" width="45%" alt="Retention Drop">
+    *  <img width="60%" alt="image" src="https://github.com/user-attachments/assets/8b10e7e8-dcf6-44c5-90a2-87dfe3c0269b" />
     * **The Problem:** High drop-off rate detected immediately after "Stamp Collection" (Retention Failure).
-      <img src="LUCAUS2025/images/Exit_Action_by_user_type.png" width="45%" alt="UI Solution">
+      <img width="45%" alt="image" src="https://github.com/user-attachments/assets/47e2f372-9bb0-4d0b-a5e1-5abcb4452ecc" />
+
 * **Solution (Design):**
     * Design a **"Contextual Bridge" (UI)** connecting the Stamp page to the Food Zone.
     * Hypothesis: "Users are hungry after gaming." -> Added a CTA button: **"Go to Food Truck"**.
