@@ -34,6 +34,46 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
 - E-commerce dataset EDA + visualization gallery
 - Python data viz practice (Matplotlib)
 
+### 🎵 Project 1. Spotify Data Analysis: "The Pure Audio Model"
+**Objective:** To verify if Spotify's recommendation algorithm is biased towards "Artist Fame" rather than "Audio Quality."
+
+* **Data:** 6,000+ songs fetched via Spotify Web API.
+* **Tech Stack:** Python, Pandas, Scikit-learn (RandomForest, LinearRegression).
+* **Key Insight:**
+    * Existing recommendations rely heavily on `artist_popularity` (Bias detected).
+    * raw-correlation
+        <p align="center">
+        <img src="Spotify-Popularity-Prediction-Project/images/raw_correlation.png" width="45%" alt="Scatter Plot">
+        </p>
+    * centered artist effect (artist popularity)
+        <p align="center">
+        <img src="Spotify-Popularity-Prediction-Project/images/centered_trend.png" width="45%" alt="Scatter Plot">
+        </p>
+      
+    * My proposed "Pure Audio Model" focused solely on audio features (energy, tempo, valence).
+* **Result:** Reduced **RMSE by 15%**, proving that a content-based approach can predict user preference more accurately than fame-based metrics.
+
+<p align="center">
+  <img src="Spotify-Popularity-Prediction-Project/images/rmse_comparison.png" width="45%" alt="RMSE Comparison">
+  <img src="Spotify-Popularity-Prediction-Project/images/scatter_plot.png" width="45%" alt="Scatter Plot">
+</p>
+
+---
+
+### 🎪 Project 2. LUCAUS Festival Log Analysis & UX Optimization
+**Objective:** Analyzing web server logs to identify user drop-off points during the university festival.
+
+* **Data:** Server access logs (Nginx/Apache format) during the festival period.
+* **Tech Stack:** Python, Matplotlib, Seaborn, Log Parsing.
+* **Discovery (Data):**
+    * **Traffic Surge:** Confirmed 300% traffic spike during booth operating hours.
+    *  <img src="LUCAUS2025/images/page_viseted.png" width="45%" alt="Retention Drop">
+    * **The Problem:** High drop-off rate detected immediately after "Stamp Collection" (Retention Failure).
+      <img src="LUCAUS2025/images/Exit_Action_by_user_type.png" width="45%" alt="UI Solution">
+* **Solution (Design):**
+    * Design a **"Contextual Bridge" (UI)** connecting the Stamp page to the Food Zone.
+    * Hypothesis: "Users are hungry after gaming." -> Added a CTA button: **"Go to Food Truck"**.
+
 ---
 
 ## 🎨 Creative Coding (Processing)
