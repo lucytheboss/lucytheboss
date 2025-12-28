@@ -45,8 +45,8 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
     * My proposed "Pure Audio Model" focused solely on audio features (energy, tempo, valence).
 * **Result:** Reduced **RMSE by 15%**, proving that a content-based approach can predict user preference more accurately than fame-based metrics.
 <p align="center">
-  <img src="Spotify-Popularity-Prediction-Project/images/rmse_comparison.png" width="45%" alt="RMSE Comparison">
-  <img src="Spotify-Popularity-Prediction-Project/images/centered_trend.png" width="45%" alt="Scatter Plot">
+ <img width="1725" height="987" alt="image" src="https://github.com/user-attachments/assets/f0071ba2-c841-4723-84a0-5bd26e3c9277" />
+  <img width="790" height="589" alt="image" src="https://github.com/user-attachments/assets/fb0947f7-5b70-41b4-b857-6d2c6797a93f" />
 </p>
 
 ---
