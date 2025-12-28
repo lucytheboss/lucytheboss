@@ -46,7 +46,7 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
 * **Result:** Reduced **RMSE by 15%**, proving that a content-based approach can predict user preference more accurately than fame-based metrics.
 <p align="center">
  <img width="50%" alt="image" src="https://github.com/user-attachments/assets/f0071ba2-c841-4723-84a0-5bd26e3c9277" />
-  <img width="35%"  alt="image" src="https://github.com/user-attachments/assets/fb0947f7-5b70-41b4-b857-6d2c6797a93f" />
+  <img width="40%"  alt="image" src="https://github.com/user-attachments/assets/fb0947f7-5b70-41b4-b857-6d2c6797a93f" />
 </p>
 
 ---
