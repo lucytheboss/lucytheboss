@@ -34,6 +34,7 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
 - E-commerce dataset EDA + visualization gallery
 - Python data viz practice (Matplotlib)
 
+
 ### 🎵 Project 1. Spotify Data Analysis: "The Pure Audio Model"
 **Objective:** To verify if Spotify's recommendation algorithm is biased towards "Artist Fame" rather than "Audio Quality."
 
@@ -41,22 +42,11 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
 * **Tech Stack:** Python, Pandas, Scikit-learn (RandomForest, LinearRegression).
 * **Key Insight:**
     * Existing recommendations rely heavily on `artist_popularity` (Bias detected).
-    * raw-correlation
-        <p align="center">
-        [<img src="Spotify-Popularity-Prediction-Project/images/raw_correlation.png" width="45%" alt="Scatter Plot">](https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project/blob/main/images/raw_correlation.png?raw=true)<img width="1649" height="1008" alt="image" src="https://github.com/user-attachments/assets/e27361f0-9af3-45dd-a8fa-8582298eb545" />
-        </p>
-    * centered artist effect (artist popularity)
-        <p align="center">
-        [<img src="images/centered_trend.png" width="45%" alt="Scatter Plot">](https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project/blob/main/images/centered_trend.png?raw=true)<img width="1725" height="987" alt="image" src="https://github.com/user-attachments/assets/368feafb-b7dc-4cc2-b6bf-536584088ced" />
-
-        </p>
-      
     * My proposed "Pure Audio Model" focused solely on audio features (energy, tempo, valence).
 * **Result:** Reduced **RMSE by 15%**, proving that a content-based approach can predict user preference more accurately than fame-based metrics.
-
 <p align="center">
   <img src="Spotify-Popularity-Prediction-Project/images/rmse_comparison.png" width="45%" alt="RMSE Comparison">
-  <img src="Spotify-Popularity-Prediction-Project/images/scatter_plot.png" width="45%" alt="Scatter Plot">
+  <img src="Spotify-Popularity-Prediction-Project/images/centered_trend.png" width="45%" alt="Scatter Plot">
 </p>
 
 ---
