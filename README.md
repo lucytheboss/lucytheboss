@@ -58,10 +58,24 @@ Exploring audio patterns, genre trends, release-year distributions, and user beh
 ---
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jiwoxz&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-
-
-<div align = center>
-<img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/indesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"/>  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/statsmodels-3F4F75?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
+<div align="center">
+  <h3>🛠 Design Tools</h3>
+  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/indesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
 
