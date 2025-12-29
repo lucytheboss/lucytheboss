@@ -2,9 +2,9 @@
 **lucytheboss/lucytheboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-# Hi, I'm Jiwoo (Lucy) Roh 👋  
-## 📬 Contact
+<h1 align="center">Hi, I'm Jiwoo Lucy Roh 👋</h1>
 <p align="center">
+  
   <a href="mailto:lucyroh529@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -16,10 +16,11 @@
   <img src="https://img.shields.io/badge/🇺🇸_U.S._Permanent_Resident-002147?style=for-the-badge"/>
 </p>
 
+
 ## Who Am I
-**Behavioral UX Research | Psychology × Data × Creative Tech**
-🏫 : Undergraduate @Chung-Ang Univ,  majoring in **Psychology, English Literature, and Technology-Art**.  
-I study **how people think, behave, and interact** — and turn that into data-driven UX decisions.
+### Behavioral UX Research | Psychology × Data × Creative Tech
+- 🏫 : Undergraduate @Chung-Ang Univ,  majoring in **Psychology, English Literature, and Technology-Art**.  
+- I study **how people think, behave, and interact** — and turn that into data-driven UX decisions.
 
 ### What I work on
 - 🧠 **Behavioral Science**: cognitive psychology, user behavior, experiments  
