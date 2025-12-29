@@ -50,13 +50,6 @@ I study **how people think, behave, and drop off** — and turn that into data-d
   <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square"/>
 </p>
 
----
-
-## 📬 Contact
-- 📧 **lucyroh529@gmail.com**  
-- 📄 **Portfolio:** [click here](https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1766966400000&signature=EiToJ5SCdqycxoBhRlb50wEwChvJh4pnmzUmb6zKRw4&downloadName=Portfolio.pdf)
-- 🌎 **U.S. Permanent Resident**
-
 ### UX & Creative
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
@@ -65,3 +58,12 @@ I study **how people think, behave, and drop off** — and turn that into data-d
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"/>
 </p>
+
+
+---
+
+## 📬 Contact
+- 📧 **lucyroh529@gmail.com**  
+- 📄 **Portfolio:** [click here](https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1766966400000&signature=EiToJ5SCdqycxoBhRlb50wEwChvJh4pnmzUmb6zKRw4&downloadName=Portfolio.pdf)
+- 🌎 **U.S. Permanent Resident**
+
