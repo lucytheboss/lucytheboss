@@ -65,6 +65,6 @@ I study **how people think, behave, and interact** — and turn that into data-d
 
 ## 📬 Contact
 - 📧 **lucyroh529@gmail.com**  
-- 📄 **Portfolio:** [click here](https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1766966400000&signature=EiToJ5SCdqycxoBhRlb50wEwChvJh4pnmzUmb6zKRw4&downloadName=Portfolio.pdf)
+- 📄 **Portfolio:** [click here](https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1767009600000&signature=imNkVIXylMGdkRQlv6OB3LeowqCvjK_IKN7tznwEIQs&downloadName=Portfolio.pdf)
 - 🌎 **U.S. Permanent Resident**
 
