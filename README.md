@@ -2,7 +2,7 @@
 **lucytheboss/lucytheboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-# Hi, I'm Lucy 👋  
+# Hi, I'm Jiwoo (Lucy) Roh 👋  
 **Behavioral UX Researcher | Psychology + Data Science + Creative Tech**
 
 I'm an undergraduate student majoring in **Psychology & English Literature & Technoglogy-Art**,  
@@ -74,15 +74,9 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
 
 ---
 
-## 🎵 Upcoming Project (In Progress)
-**Apple Music Dataset Analysis**  
-Exploring audio patterns, genre trends, release-year distributions, and user behavior insights.
-
----
-
 ## 📬 Contact
 **Email:lucyroh529@gmail.com**  
-**Portfolio:** (coming soon)  
+**Portfolio:** [click here](https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1766966400000&signature=EiToJ5SCdqycxoBhRlb50wEwChvJh4pnmzUmb6zKRw4&downloadName=Portfolio.pdf)
 **U.S. Permanent Resident**
 
 ---
