@@ -4,11 +4,19 @@
 -->
 # Hi, I'm Jiwoo (Lucy) Roh 👋  
 ## 📬 Contact
-- 📧 **lucyroh529@gmail.com**  
-- 📄 **Portfolio:** [click here](https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1767009600000&signature=imNkVIXylMGdkRQlv6OB3LeowqCvjK_IKN7tznwEIQs&downloadName=Portfolio.pdf)
-- 🌎 **U.S. Permanent Resident**
+<p align="center">
+  <a href="mailto:lucyroh529@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-**Who Am I**
+  <a href="https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1767009600000&signature=imNkVIXylMGdkRQlv6OB3LeowqCvjK_IKN7tznwEIQs&downloadName=Portfolio.pdf">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/🇺🇸_U.S._Permanent_Resident-002147?style=for-the-badge"/>
+</p>
+
+## Who Am I
 **Behavioral UX Research | Psychology × Data × Creative Tech**
 🏫 : Undergraduate @Chung-Ang Univ,  majoring in **Psychology, English Literature, and Technology-Art**.  
 I study **how people think, behave, and interact** — and turn that into data-driven UX decisions.
