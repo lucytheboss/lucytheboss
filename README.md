@@ -16,8 +16,8 @@
 
 ## Who Am I
 ### Behavioral UX Research | Psychology × Data × Creative Tech
-- 🏫 : Undergraduate @Chung-Ang Univ,  majoring in **Psychology, English Literature, and Technology-Art**.  
-- I study **how people think, behave, and interact** — and turn that into data-driven UX decisions.
+- 🏫 : Undergraduate @Chung-Ang Univ
+- 📚 : Majoring in **Psychology, English Literature, and Technology-Art**.  
 
 ### What I work on
 - 🧠 **Behavioral Science**: cognitive psychology, user behavior, experiments  
