@@ -45,25 +45,17 @@ I study **how people think, behave, and drop off** — and turn that into data-d
 
 ## 📬 Contact
 📧 **lucyroh529@gmail.com**  
-📄 **Portfolio:** https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1766966400000&signature=EiToJ5SCdqycxoBhRlb50wEwChvJh4pnmzUmb6zKRw4&downloadName=Portfolio.pdf  
+📄 **Portfolio:** [click here](https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1766966400000&signature=EiToJ5SCdqycxoBhRlb50wEwChvJh4pnmzUmb6zKRw4&downloadName=Portfolio.pdf  )
 🌎 **U.S. Permanent Resident**
-
-
----
-
-## 📬 Contact
-**Email:lucyroh529@gmail.com**  
-**Portfolio:** [click here](https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1766966400000&signature=EiToJ5SCdqycxoBhRlb50wEwChvJh4pnmzUmb6zKRw4&downloadName=Portfolio.pdf)
-**U.S. Permanent Resident**
 
 ---
 
 <div align="center">
   <h3>🛠 Tech Stack</h3>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img width="20%" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img width="20%" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img width="20%" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img width="20%" src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white">
