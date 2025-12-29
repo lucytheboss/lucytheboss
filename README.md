@@ -22,6 +22,7 @@ I study **how people think, behave, and interact** — and turn that into data-d
 - Python + Statsmodels (OLS) + Spotify API + Pandas
 - **Hypothesis**: "Track success is not random; it is a predictable function of Artist Momentum, Genre, and Duration"
 - **Solution**: Predictive Modeling → Built a multivariate regression model to quantify the 'Hit Potential' of unreleased tracks ([click here](https://hit-song-predictor-mmjufawd7twrfbgoysiwkf.streamlit.app) for try out!)
+
 🔗 https://github.com/lucytheboss/Hit-Song-Predictor
 
 ### 🎵 Spotify Data Analysis — *The Pure Audio Model*  
