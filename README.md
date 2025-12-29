@@ -17,31 +17,11 @@ I study **how people think, behave, and interact** — and turn that into data-d
 
 ## 🔍 Selected Projects
 
-### 🍎 Apple Music Data Analysis - Song Success Predictor Model
-👉 Predicting commercial track performance using metadata & historical signals
-- Python + Statsmodels (OLS) + Spotify API + Pandas
-- **Hypothesis**: "Track success is not random; it is a predictable function of Artist Momentum, Genre, and Duration"
-- **Solution**: Predictive Modeling → Built a multivariate regression model to quantify the 'Hit Potential' of unreleased tracks ([click here](https://hit-song-predictor-mmjufawd7twrfbgoysiwkf.streamlit.app))
-
-🔗 https://github.com/lucytheboss/Hit-Song-Predictor
-
-
-### 🎵 Spotify Data Analysis — *The Pure Audio Model*  
-👉 Tested whether Spotify recommendations favor **artist fame over previous success**  
-- 6,000+ songs via Spotify Web API  
-- RandomForest / Linear Regression  
-- **Result:** Previous Success model reduced RMSE by **15%**
-
-🔗 https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project
-
-
-### 🎪 University Festival Web Log Analysis (LUCAUS 2025)  
-👉 Identified **user drop-off after stamp collection** using server logs  
-- Log parsing + traffic pattern analysis  
-- UX hypothesis: "Users drop-off due to lack of guided action after the session"
-- **Solution:** Contextual CTA → *Food Truck Navigation*
-
-🔗 https://github.com/lucytheboss/LUCAUS2025
+| Project | Tech Stack | Key Outcome |
+| :--- | :--- | :--- |
+| **🍎 [Apple Music Data Analysis](https://github.com/lucytheboss/Hit-Song-Predictor)**<br>_Song Success Predictor Model_ | Python, Statsmodels (OLS), Pandas, Spotify API | Built a multivariate regression model to quantify the 'Hit Potential' of unreleased tracks based on metadata. |
+| **🎵 [Spotify Data Analysis](https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project)**<br>_The Pure Audio Model_ | Python, RandomForest, Linear Regression, Spotify API | Analyzed 6,000+ songs to test recommendation bias; the 'Previous Success' model reduced RMSE by 15%. |
+| **🎪 [University Festival Web Log Analysis](https://github.com/lucytheboss/LUCAUS2025)**<br>_LUCAUS 2025_ | Log Parsing, Traffic Pattern Analysis | Identified user drop-off points via server logs and implemented a Contextual CTA (Food Truck Navigation) to improve retention. |
 
 ---
 
