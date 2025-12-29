@@ -27,8 +27,6 @@ I study **how people think, behave, and interact** — and turn that into data-d
 
 ## 🛠 Tech Stack
 
-### 🛠 Tech Stack
-
 **Data & Analysis**
 
 ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
