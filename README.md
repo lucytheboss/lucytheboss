@@ -3,74 +3,51 @@
 
 -->
 # Hi, I'm Jiwoo (Lucy) Roh 👋  
-**Behavioral UX Researcher | Psychology + Data Science + Creative Tech**
+**Behavioral UX Research | Psychology × Data × Creative Tech**
 
-I'm an undergraduate student majoring in **Psychology & English Literature & Technoglogy-Art**,  
-with strong interests in **UX research, human behavior, product analytics, and data-driven design**.
+Undergraduate majoring in **Psychology, English Literature, and Technology-Art**.  
+I study **how people think, behave, and drop off** — and turn that into data-driven UX decisions.
 
-I work at the intersection of:
-- 🧠 **Behavioral Science** (cognitive psych, user behavior, experimentation)  
-- 📊 **Data Analysis** (Python, Pandas, visualization, missing data methods)  
-- 🎨 **UX & Creative Tech** (Figma, usability research, Processing)
-
-Currently building projects that combine **psychology + data + UX**  
-and preparing for **future roles in UX Research, HCI, and behavioral data analysis**.
+### What I work on
+- 🧠 **Behavioral Science**: cognitive psychology, user behavior, experiments  
+- 📊 **Data Analysis**: Python, EDA, visualization, missing data methods  
+- 🎨 **UX & Creative Tech**: UX research, Figma, creative coding (Processing)
 
 ---
 
-## 🔬 UX Research Projects
-- **Clothing Exchange App (“니옷내옷”)**  
-  User interviews, affinity mapping, usability testing, mid-fidelity design recommendations.
+## 🔍 Selected Projects
 
-- **Experimental Psychology Projects**  
-  Mini attention-bias study, item analysis, ANOVA/t-tests, and APA-style reporting.
+### 🎵 Spotify Data Analysis — *The Pure Audio Model*  
+👉 Tested whether Spotify recommendations favor **artist fame over audio quality**  
+- 6,000+ songs via Spotify Web API  
+- RandomForest / Linear Regression  
+- **Result:** Audio-only model reduced RMSE by **15%**
 
----
-
-## 📈 Data Analysis & Visualization
-- Missing Data Imputation (KNN, regression-based, iterative imputer)
-- E-commerce dataset EDA + visualization gallery
-- Python data viz practice (Matplotlib)
-
-
-### 🎵 [Project 1. Spotify Data Analysis: "The Pure Audio Model" ](https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project)
-**Objective:** To verify if Spotify's recommendation algorithm is biased towards "Artist Fame" rather than "Audio Quality."
-
-* **Data:** 6,000+ songs fetched via Spotify Web API.
-* **Tech Stack:** Python, Pandas, Scikit-learn (RandomForest, LinearRegression).
-* **Key Insight:**
-    * Existing recommendations rely heavily on `artist_popularity` (Bias detected).
-    * My proposed "Pure Audio Model" focused solely on audio features (energy, tempo, valence).
-* **Result:** Reduced **RMSE by 15%**, proving that a content-based approach can predict user preference more accurately than fame-based metrics.
-<p align="center">
- <img width="50%" alt="image" src="https://github.com/user-attachments/assets/f0071ba2-c841-4723-84a0-5bd26e3c9277" />
-  <img width="40%"  alt="image" src="https://github.com/user-attachments/assets/fb0947f7-5b70-41b4-b857-6d2c6797a93f" />
-</p>
+🔗 https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project
 
 ---
 
-### 🎪 [Project 2. LUCAUS Festival Log Analysis & UX Optimization](https://github.com/lucytheboss/LUCAUS2025)
-**Objective:** Analyzing web server logs to identify user drop-off points during the university festival.
+### 🎪 University Festival Web Log Analysis (LUCAUS 2025)  
+👉 Identified **user drop-off after stamp collection** using server logs  
+- Log parsing + traffic pattern analysis  
+- UX hypothesis: “Users are hungry after gaming”  
+- **Solution:** Contextual CTA → *Food Truck Navigation*
 
-* **Data:** Server access logs (Nginx/Apache format) during the festival period.
-* **Tech Stack:** Python, Matplotlib, Seaborn, Log Parsing.
-* **Discovery (Data):**
-    * **Traffic Surge:** Confirmed 300% traffic spike during booth operating hours.
-    *  <img width="60%" alt="image" src="https://github.com/user-attachments/assets/8b10e7e8-dcf6-44c5-90a2-87dfe3c0269b" />
-    * **The Problem:** High drop-off rate detected immediately after "Stamp Collection" (Retention Failure).
-      <img width="45%" alt="image" src="https://github.com/user-attachments/assets/47e2f372-9bb0-4d0b-a5e1-5abcb4452ecc" />
-
-* **Solution (Design):**
-    * Design a **"Contextual Bridge" (UI)** connecting the Stamp page to the Food Zone.
-    * Hypothesis: "Users are hungry after gaming." -> Added a CTA button: **"Go to Food Truck"**.
+🔗 https://github.com/lucytheboss/LUCAUS2025
 
 ---
 
-## 🎨 Creative Coding (Processing)
-- Fractal Trees  
-- Wave Motion  
-- Dynamic Color Fields  
-(Each project includes GIF previews)
+## 🛠 Tech Stack
+**Python · Pandas · NumPy · scikit-learn · Matplotlib · Statsmodels**  
+**Figma · Adobe CC · Processing**
+
+---
+
+## 📬 Contact
+📧 **lucyroh529@gmail.com**  
+📄 **Portfolio:** https://file.notion.so/f/f/1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4/636dad80-e6fa-417e-962a-f032b79821bd/Portfolio.pdf?table=block&id=2d756820-7ddd-8039-8173-e0cba6fba9e4&spaceId=1b3cf5c9-e2f2-472f-94ef-9a74f8ca22f4&expirationTimestamp=1766966400000&signature=EiToJ5SCdqycxoBhRlb50wEwChvJh4pnmzUmb6zKRw4&downloadName=Portfolio.pdf  
+🌎 **U.S. Permanent Resident**
+
 
 ---
 
@@ -81,7 +58,6 @@ and preparing for **future roles in UX Research, HCI, and behavioral data analys
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jiwoxz&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 <div align="center">
   <h3>🛠 Tech Stack</h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
