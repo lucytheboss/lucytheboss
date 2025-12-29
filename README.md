@@ -10,18 +10,25 @@ I study **how people think, behave, and interact** — and turn that into data-d
 
 ### What I work on
 - 🧠 **Behavioral Science**: cognitive psychology, user behavior, experiments  
-- 📊 **Data Analysis**: Python, EDA, visualization, missing data methods  
+- 📊 **Data Analysis**: Python, EDA, visualization, statistical modeling  
 - 🎨 **UX & Creative Tech**: UX research, Figma, creative coding (Processing)
 
 ---
 
 ## 🔍 Selected Projects
 
+### 🍎 Apple Music Data Analysis - Song Success Predictor Model
+👉 Predicting commercial track performance using metadata & historical signals
+- Python + Statsmodels (OLS) + Spotify API + Pandas
+- **Hypothesis**: "Track success is not random; it is a predictable function of Artist Momentum, Genre, and Duration"
+- **Solution**: Predictive Modeling → Built a multivariate regression model to quantify the 'Hit Potential' of unreleased tracks ([click here](https://hit-song-predictor-mmjufawd7twrfbgoysiwkf.streamlit.app) for try out!)
+🔗 https://github.com/lucytheboss/Hit-Song-Predictor
+
 ### 🎵 Spotify Data Analysis — *The Pure Audio Model*  
-👉 Tested whether Spotify recommendations favor **artist fame over audio quality**  
+👉 Tested whether Spotify recommendations favor **artist fame over previous success**  
 - 6,000+ songs via Spotify Web API  
 - RandomForest / Linear Regression  
-- **Result:** Audio-only model reduced RMSE by **15%**
+- **Result:** Previous Success model reduced RMSE by **15%**
 
 🔗 https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project
 
