@@ -30,7 +30,7 @@ I study **how people think, behave, and drop off** — and turn that into data-d
 ### 🎪 University Festival Web Log Analysis (LUCAUS 2025)  
 👉 Identified **user drop-off after stamp collection** using server logs  
 - Log parsing + traffic pattern analysis  
-- UX hypothesis: “Users are hungry after gaming”  
+- UX hypothesis: "Users drop-off due to lack of guided action after the session"
 - **Solution:** Contextual CTA → *Food Truck Navigation*
 
 🔗 https://github.com/lucytheboss/LUCAUS2025
