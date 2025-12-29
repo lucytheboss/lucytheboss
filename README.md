@@ -25,6 +25,7 @@ I study **how people think, behave, and interact** — and turn that into data-d
 
 🔗 https://github.com/lucytheboss/Hit-Song-Predictor
 
+
 ### 🎵 Spotify Data Analysis — *The Pure Audio Model*  
 👉 Tested whether Spotify recommendations favor **artist fame over previous success**  
 - 6,000+ songs via Spotify Web API  
@@ -33,7 +34,6 @@ I study **how people think, behave, and interact** — and turn that into data-d
 
 🔗 https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project
 
----
 
 ### 🎪 University Festival Web Log Analysis (LUCAUS 2025)  
 👉 Identified **user drop-off after stamp collection** using server logs  
