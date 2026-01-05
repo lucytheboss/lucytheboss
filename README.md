@@ -1,4 +1,5 @@
 # Hi, I'm Jiwoo Lucy Roh 👋</h1>
+I specialize in translating behavioral data into actionable insights by combining quantitative analysis with UX research thinking. I am particularly interested in roles involving user behavior, experimentation, and data-driven product decisions.
 <p>
   <a href="mailto:lucyroh529@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
