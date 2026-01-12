@@ -1,8 +1,7 @@
 # Hi, I'm Jiwoo (Lucy) Roh 👋
 
-I translate **behavior-adjacent data** into actionable insights by combining quantitative analysis
-with UX research thinking. I am particularly interested in roles involving **user behavior,
-experimentation, and data-informed product decisions**.
+I analyze **user behavior** to understand why people hesitate, drop off, or fail to act in digital systems,
+using behavioral data and HCI-informed reasoning.
 
 <p>
   <a href="mailto:lucyroh529@gmail.com">
@@ -17,52 +16,60 @@ experimentation, and data-informed product decisions**.
 ---
 
 ## Who Am I
-### Behavioral UX Research · Psychology × Data × Creative Tech
+### Behavioral UX Research · Human-Computer Interaction (HCI)
 
 - 🏫 Undergraduate @ Chung-Ang University  
 - 📚 Majoring in **Psychology, English Literature, and Technology-Art**
+
+I focus on explaining **why users behave the way they do**, especially in moments of hesitation,
+confusion, or disengagement.  
+My work emphasizes behavioral interpretation over surface-level interface evaluation.
 
 ---
 
 ## What I Work On
 
 - 🧠 **Behavioral Science**  
-  Cognitive psychology, user behavior analysis, experimental thinking
+  Cognitive psychology, user behavior analysis, behavioral hypothesis building
 
-- 📊 **Data Analysis**  
-  Python, EDA, visualization, statistical modeling, validation
+- 📊 **Behavioral Data Analysis**  
+  Interaction logs, behavioral metrics, exploratory and comparative analysis, post-hoc validation
 
-- 🎨 **UX & Creative Tech**  
-  UX research, Figma prototyping, creative coding (Processing)
+- 🎨 **UX & Interaction Research**  
+  UX research methods, interaction flow analysis, prototyping for behavioral inquiry
 
 ---
 
 ## 🔍 Selected Projects
 
-| Project | Tech Stack | Key Outcome |
+| Project | Focus | Key Outcome |
 | :--- | :--- | :--- |
-| **📺 [Netflix Originals Hit Analysis](https://github.com/lucytheboss/Netflix-Originals-Hit-Analysis)**<br>_Structural Drivers of Audience Engagement_ | Python, Pandas, Scikit-Learn, TMDb API | Analyzed ~2,000 Netflix Original series to examine how release timing, genre composition, and country of origin relate to audience engagement outcomes, using leakage-aware modeling (ROC-AUC ≈ 0.83). |
-| **🎧 [Sonic Hit Predictor](https://github.com/lucytheboss/Sonic-Analytics-Hit-Predictor)**<br>_AI Audio Analysis Dashboard_ | Streamlit, Librosa, Random Forest, Plotly | Built an interactive web app that extracts audio features (BPM, energy) to estimate popularity and provide actionable optimization feedback. |
-| **🍎 [Apple Music Data Analysis](https://github.com/lucytheboss/Hit-Song-Predictor)**<br>_Song Success Predictor Model_ | Python, Statsmodels (OLS), Pandas, Spotify API | Quantified “hit potential” of unreleased tracks using multivariate regression on metadata and historical performance. |
-| **🎵 [Spotify Popularity Analysis](https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project)**<br>_Pure Audio Model_ | Python, Random Forest, Linear Regression, Spotify API | Analyzed 6,000+ songs to examine recommendation bias; a momentum-based model reduced RMSE by 15%. |
-| **🎪 [University Festival Web Log Analysis](https://github.com/lucytheboss/LUCAUS2025)**<br>_LUCAUS 2025_ | Log parsing, traffic pattern analysis | Identified user drop-off points via server logs and introduced contextual CTAs to improve navigation and retention. |
+| **📺 [When Content Succeeds: Behavioral Patterns in Netflix Originals](https://github.com/lucytheboss/Netflix-Originals-Hit-Analysis)** | Audience behavior | Analyzed how structural factors shaped sustained audience engagement, focusing on behavioral signals rather than pure popularity prediction. |
+| **🎧 [How Audio Signals Shape Listener Expectations](https://github.com/lucytheboss/Sonic-Analytics-Hit-Predictor)** | Human–AI interaction | Examined how audio features influenced perceived popularity and listener expectations through an interactive behavioral analysis dashboard. |
+| **🍎 [Predicting Song Success: Behavioral Signals in Music Platforms](https://github.com/lucytheboss/Hit-Song-Predictor)** | Behavioral modeling | Quantified behavioral patterns associated with song adoption using multivariate regression on audio and metadata features. |
+| **🎵 [Familiarity vs Novelty: Behavioral Bias in Music Recommendation](https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project)** | Recommendation bias | Investigated how familiarity bias influenced user response to recommendations, demonstrating limits of accuracy-driven systems. |
+| **🎪 [Why Users Stopped: Behavioral Analysis of a University Festival Website](https://github.com/lucytheboss/LUCAUS2025)** | UX drop-off analysis | Identified points of user hesitation and drop-off through interaction logs, analyzing how unclear next-action cues disrupted behavioral continuation. |
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tools
 
-### Data & Analysis
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3B568A?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-Audio_Analysis-blueviolet?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Interaction Logs](https://img.shields.io/badge/Interaction_Logs-Behavioral_Data-2F4F4F?style=for-the-badge)
 
-### UX & Creative
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-000000?style=for-the-badge&logo=processing.org&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+---
+
+## What I’m Looking For
+
+I’m interested in roles and research environments where understanding  
+**why users fail to act** matters more than optimizing model performance.
+
+I’m particularly drawn to **UX Research, Behavioral Data, HCI, and Human–AI Interaction** problems
+that require explaining behavior—not just predicting it.
+
 
