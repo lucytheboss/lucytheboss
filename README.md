@@ -22,18 +22,21 @@ using behavioral data and HCI-informed reasoning.
 - 📚 Majoring in **Psychology, English Literature, and Technology-Art**
 
 I focus on explaining **why users behave the way they do**, especially in moments of hesitation,
-confusion, or disengagement.  
-My work emphasizes behavioral interpretation over surface-level interface evaluation.
+confusion, or disengagement.
+
+Rather than optimizing interfaces or models in isolation, my work emphasizes
+**behavioral interpretation** — identifying cognitive, contextual, and systemic factors
+that shape user action (or inaction).
 
 ---
 
 ## What I Work On
 
 - 🧠 **Behavioral Science**  
-  Cognitive psychology, user behavior analysis, behavioral hypothesis building
+  Cognitive psychology, user decision-making, behavioral hypothesis building
 
 - 📊 **Behavioral Data Analysis**  
-  Interaction logs, behavioral metrics, exploratory and comparative analysis, post-hoc validation
+  Interaction logs, behavioral metrics, exploratory analysis, residual-based diagnostics
 
 - 🎨 **UX & Interaction Research**  
   UX research methods, interaction flow analysis, prototyping for behavioral inquiry
@@ -44,32 +47,41 @@ My work emphasizes behavioral interpretation over surface-level interface evalua
 
 | Project | Focus | Key Outcome |
 | :--- | :--- | :--- |
-| **📺 [When Content Succeeds: Behavioral Patterns in Netflix Originals](https://github.com/lucytheboss/Netflix-Originals-Hit-Analysis)** | Audience behavior | Analyzed how structural factors shaped sustained audience engagement, focusing on behavioral signals rather than pure popularity prediction. |
-| **🎧 [How Audio Signals Shape Listener Expectations](https://github.com/lucytheboss/Sonic-Analytics-Hit-Predictor)** | Human–AI interaction | Examined how audio features influenced perceived popularity and listener expectations through an interactive behavioral analysis dashboard. |
-| **🍎 [Predicting Song Success: Behavioral Signals in Music Platforms](https://github.com/lucytheboss/Hit-Song-Predictor)** | Behavioral modeling | Quantified behavioral patterns associated with song adoption using multivariate regression on audio and metadata features. |
-| **🎵 [Familiarity vs Novelty: Behavioral Bias in Music Recommendation](https://github.com/lucytheboss/Spotify-Popularity-Prediction-Project)** | Recommendation bias | Investigated how familiarity bias influenced user response to recommendations, demonstrating limits of accuracy-driven systems. |
-| **🎪 [Why Users Stopped: Behavioral Analysis of a University Festival Website](https://github.com/lucytheboss/LUCAUS2025)** | UX drop-off analysis | Identified points of user hesitation and drop-off through interaction logs, analyzing how unclear next-action cues disrupted behavioral continuation. |
+| **🎧 [Music Discovery Gaps: Behavioral Signals Behind Popularity Failures](https://github.com/lucytheboss/what-drives-music-popularity)** | Behavioral data science · discovery systems | Built a residual-based popularity model (R² = 0.20) to analyze when recommendation predictions fail, revealing 20% unexpected outcomes, genre-level exposure bias, and underexposed “hidden gem” tracks. Delivered a full pipeline (Python modeling → report → Tableau dashboard) to diagnose discovery inefficiencies. |
+| **📺 [When Content Succeeds: Behavioral Patterns in Netflix Originals](https://github.com/lucytheboss/Netflix-Originals-Hit-Analysis)** | Audience behavior | Analyzed how structural and contextual factors shaped sustained audience engagement, focusing on behavioral signals rather than surface-level popularity metrics. |
+| **🎪 [Why Users Stopped: Behavioral Analysis of a University Festival Website](https://github.com/lucytheboss/LUCAUS2025)** | UX drop-off analysis | Identified points of hesitation and abandonment through real interaction logs, showing how unclear next-action cues disrupted behavioral continuation and task completion. |
+| **🎧 [How Audio Platforms Shape Listener Expectations](https://github.com/lucytheboss/Sonic-Analytics-Hit-Predictor)** | Human interaction | Explored how audio features & artist momentum influence perceived popularity through interactive behavioral analysis and signal interpretation. |
 
 ---
 
 ## 🛠 Tools
 
+### Analysis & Modeling
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Visualization, Apps & Reporting
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### UX & Research
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Interaction Logs](https://img.shields.io/badge/Interaction_Logs-Behavioral_Data-2F4F4F?style=for-the-badge)
 
+### Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## What I’m Looking For
 
 I’m interested in roles and research environments where understanding  
-**why users fail to act** matters more than optimizing model performance.
+**why users fail to act** matters more than maximizing model accuracy.
 
-I’m particularly drawn to **UX Research, Behavioral Data, HCI, and Human–AI Interaction** problems
-that require explaining behavior—not just predicting it.
-
+I’m particularly drawn to **UX Research, Behavioral Data, HCI, and Human–AI Interaction**
+problems that require explaining behavior — not just predicting outcomes.
 
