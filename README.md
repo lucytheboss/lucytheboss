@@ -29,6 +29,7 @@ My research focuses on moments of hesitation, drop-off, and unexpected behavior 
 
 | Project | What I asked | Key finding |
 |---|---|---|
+| 🧠 [Beyond Demographics-KR](https://github.com/lucytheboss/beyond-demographics-kr) | Can psychographic clusters form without any demographic variables? | Silhouette 0.60 from behavior + values text alone. Values and behavior cluster independently (ARI=0.028). LLM-generated personas show 4.4× sociality bias. |
 | 🎧 [What Drives Music Popularity?](https://github.com/lucytheboss/what-drives-music-popularity) | When popularity predictions fail — why? | Residual analysis revealed ~20% of tracks behave unexpectedly; niche genres systematically underrated. Best model R²=0.198, leaving 80% unexplained — that gap is the signal. |
 | 🎬 [MovieLens Behavioral Recommender](https://github.com/lucytheboss/movielens-behavioral-recommender) | Is popularity bias caused by power users — or is it structural? | Counterfactual removal of top 1–5% users barely shifted head/tail exposure. Built MF from scratch (RMSE 0.9062, NDCG@10 0.9502); designed offline A/B experiment with popularity penalty. |
 | 🎪 [University Festival App — Behavioral Analytics](https://github.com/lucytheboss/festival-behavioral-analytics) | Why do our most engaged users leave so abruptly? | Discovered a post-task "completion cliff" in 110K+ clickstream events. Sole designer and UX researcher; shipped design interventions validated with engineering. |
