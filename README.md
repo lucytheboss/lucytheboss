@@ -1,7 +1,7 @@
 # Hi, I'm Jiwoo (Lucy) Roh 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucyroh529@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white)](https://drive.google.com/file/d/166xlu-fDOA2bScU40QiQfGAtnG-jrZvi/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/166xlu-fDOA2bScU40QiQfGAtnG-jrZvi/view?usp=sharing)
 [![U.S. Permanent Resident](https://img.shields.io/badge/U.S._Permanent_Resident-002147?style=for-the-badge)](https://github.com/lucytheboss)
 
 ---
@@ -10,7 +10,7 @@
 
 Undergraduate @ Chung-Ang University — triple major in **Psychology, English Literature, and Technology Arts**.
 
-I came to behavioral data research through an unlikely parallel: studying **cognitive psychology and operating systems** side by side, I noticed that human cognition and data processing systems share the same fundamental constraints — limited working memory mirrors limited cache, attention bottlenecks mirror I/O bottlenecks, chunking mirrors compression. That connection made me want to understand user behavior the way a systems engineer understands a pipeline: not just what fails, but *why*, and *where in the process*.
+I came to behavioral data research through an unlikely parallel: studying cognitive psychology and operating systems side by side, I noticed that human cognition and data processing systems share the same fundamental constraints — limited working memory mirrors limited cache, attention bottlenecks mirror I/O bottlenecks, chunking mirrors compression. That connection is why I approach user behavior the way a systems engineer approaches a pipeline: not just what fails, but *why*, and *where in the process*.
 
 My research focuses on moments of hesitation, drop-off, and unexpected behavior — because that's where the system is telling you something the happy-path metrics don't capture.
 
