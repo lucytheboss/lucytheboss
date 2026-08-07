@@ -30,10 +30,22 @@ My research focuses on moments of hesitation, drop-off, and unexpected behavior 
 | Project | What I asked | Key finding |
 |---|---|---|
 | 🧠 [Beyond Demographics-KR](https://github.com/lucytheboss/beyond-demographics-kr) | Can psychographic clusters form without any demographic variables? | Silhouette 0.60 from behavior + values text alone. Values and behavior cluster independently (ARI=0.028). LLM-generated personas show 4.4× sociality bias. |
+| 📚 [Rehearse, Then Recall](https://github.com/lucytheboss/rehearse-then-recall) | Does rehearsing a document as an LLM reads it — compressing and revising a running memory, like spaced-repetition — beat reading it raw? | Embedding-targeted gist lookup recovers 60–67% of full-context accuracy using 50–70% fewer tokens across 4 genres (n=579) — but no compression strategy beats reading the raw document outright. |
 | 🎧 [What Drives Music Popularity?](https://github.com/lucytheboss/what-drives-music-popularity) | When popularity predictions fail — why? | Residual analysis revealed ~20% of tracks behave unexpectedly; niche genres systematically underrated. Best model R²=0.198, leaving 80% unexplained — that gap is the signal. |
 | 🎬 [MovieLens Behavioral Recommender](https://github.com/lucytheboss/movielens-behavioral-recommender) | Is popularity bias caused by power users — or is it structural? | Counterfactual removal of top 1–5% users barely shifted head/tail exposure. Built MF from scratch (RMSE 0.9062, NDCG@10 0.9502); designed offline A/B experiment with popularity penalty. |
 | 🎪 [University Festival App — Behavioral Analytics](https://github.com/lucytheboss/festival-behavioral-analytics) | Why do our most engaged users leave so abruptly? | Discovered a post-task "completion cliff" in 110K+ clickstream events. Sole designer and UX researcher; shipped design interventions validated with engineering. |
 | 🎵 [Sonic Analytics Hit Predictor](https://github.com/lucytheboss/Sonic-Analytics-Hit-Predictor) | What actually predicts a song's success? | Artist fame explains only 11% of variance; recent momentum explains 34%. Built and deployed a live Random Forest app with genre-specific "Doctor's Orders" recommendations. · [Live app →](https://sonic-analytics-hit-predictor.streamlit.app) |
+
+---
+
+## Things I've Built
+
+Research raises the questions; sometimes I also ship the tool.
+
+| Project | What it is |
+|---|---|
+| 🤖 [Multi-AI Assistant](https://github.com/lucytheboss/multi-ai-assistant) | An Obsidian sidebar that turns your vault into a study partner — chat, quizzes, and flashcards grounded in your own notes/PDFs, via Groq, Gemini, OpenAI, Claude, or a local CLI. |
+| 🗂️ [Extended Base](https://github.com/lucytheboss/extended-base) | Notion-style Table/List/Board views for Obsidian Bases — inline editing, colored value pills, nested collapsible groups. |
 
 ---
 
